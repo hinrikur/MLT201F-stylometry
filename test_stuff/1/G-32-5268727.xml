@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Latínkvartettinn á Glaumbar</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5268727</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Latínkvartettinn á Glaumbar</title>
+            </title>
+            <date>2009-1-28</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="75"/>
+          <tagUsage gi="c" occurs="11"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="LATÍNKVARTETT" type="nven-s">LATÍNKVARTETT</w>
+            <w lemma="Tómas" type="nkee-s">Tómasar</w>
+            <w lemma="R." type="as">R.</w>
+            <w lemma="Einarsson" type="nkee-s">Einarssonar</w>
+            <w lemma="halda" type="sfg3en">heldur</w>
+            <w lemma="tónleikar" type="nkfo">tónleika</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="glaumbar" type="nkeo">Glaumbar</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="Tryggvagata" type="nveo-s">Tryggvagötu</w>
+            <w lemma="annar" type="foheo">annað</w>
+            <w lemma="kvöld" type="nheo">kvöld</w>
+            <w lemma="kl." type="as">kl.</w>
+            <w lemma="22" type="ta">22</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="Latínkvartett" type="nken-s">Latínkvartett</w>
+            <w lemma="Tómas" type="nkee-s">Tómasar</w>
+            <w lemma="R." type="as">R.</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="auk" type="ae">auk</w>
+            <w lemma="hann" type="fpkee">hans</w>
+            <w lemma="skipa" type="sþgken">skipaður</w>
+            <w lemma="hann" type="fpkfþ">þeim</w>
+            <w lemma="Óskar" type="nkeþ-s">Óskari</w>
+            <w lemma="Guðjónsson" type="nkeþ-s">Guðjónssyni</w>
+            <w lemma="saxófónleikari" type="nkeþ">saxófónleikara</w>
+            <c type="punctuation">,</c>
+            <w lemma="Ómar" type="nkeþ-s">Ómari</w>
+            <w lemma="Guðjónsson" type="nkeþ-s">Guðjónssyni</w>
+            <c type="punctuation">,</c>
+            <w lemma="gítarleikari" type="nkeþ">gítarleikara</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Matthías" type="nkeþ-s">Matthíasi</w>
+            <w lemma="mdur" type="lvensf">MD</w>
+            <w lemma="Hemstock" type="nven-s">Hemstock</w>
+            <w lemma="slagverksmaður" type="nkeþ">slagverksmanni</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="efnisskrá" type="nveng">Efnisskráin</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="latíndiskur" type="nkfþ">latíndiskum</w>
+            <w lemma="Tómas" type="nkee-s">Tómasar</w>
+            <c type="punctuation">:</c>
+            <w lemma="kúbanska" type="nven">Kúbanska</w>
+            <c type="punctuation">,</c>
+            <w lemma="Havana" type="nven-s">Havana</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Romm" type="e">Romm</w>
+            <w lemma="Tommur" type="nkeo-s">Tomm</w>
+            <w lemma="Tommur" type="nkeo-s">Tomm</w>
+            <c type="punctuation">,</c>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="nú" type="aa">nú</w>
+            <w lemma="hafa" type="sfg3fn">hafa</w>
+            <w lemma="selja" type="ssm">selst</w>
+            <w lemma="samanlagt" type="aa">samanlagt</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="átta" type="to">átta</w>
+            <w lemma="þúsund" type="tfhfþ">þúsund</w>
+            <w lemma="eintak" type="nhfþ">eintökum</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="hljóta" type="ssg">hlotið</w>
+            <w lemma="lofsamlega" type="aa">lofsamlega</w>
+            <w lemma="dómur" type="nkfo">dóma</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="erlendur" type="lhfþsf">erlendum</w>
+            <w lemma="tónlistartímarit" type="nhfþ">tónlistartímaritum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="lag" type="nhfn">Lög</w>
+            <w lemma="Tómas" type="nkee-s">Tómasar</w>
+            <w lemma="hafa" type="sfg3fn">hafa</w>
+            <w lemma="ná" type="ssg">náð</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="toppur" type="nkeo">topp</w>
+            <w lemma="20" type="ta">20</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="latínútvarpsstöð" type="nvfþ">latínútvarpsstöðvum</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Bandaríki" type="nhfþgs">Bandaríkjunum</w>
+            <c type="punctuation">,</c>
+            <w lemma="Kólumbía" type="nveþ-s">Kólumbíu</w>
+            <c type="punctuation">,</c>
+            <w lemma="Perú" type="nheþ-s">Perú</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Ítalía" type="nveþ-s">Ítalíu</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

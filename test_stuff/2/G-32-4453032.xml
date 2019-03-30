@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Ákvað óbreytta stýrivexti á evrusvæðinu</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4453032</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Ákvað óbreytta stýrivexti á evrusvæðinu</title>
+            </title>
+            <date>2013-2-8</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="64"/>
+          <tagUsage gi="c" occurs="7"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="peningastefnunefnd" type="nven">Peningastefnunefnd</w>
+            <c type="punctuation">*</c>
+            <w lemma="evrópskur" type="lkeevf">Evrópska</w>
+            <w lemma="seðlabanki" type="nkeeg">seðlabankans</w>
+            <w lemma="gera" type="sfg3eþ">gerði</w>
+            <w lemma="enginn" type="fovfo">engar</w>
+            <w lemma="breyting" type="nvfo">breytingar</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="stýrivextir" type="nkfþ">stýrivöxtum</w>
+            <w lemma="banki" type="nkeeg">bankans</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="fundur" type="nkeþ">fundi</w>
+            <w lemma="sinn" type="fekeþ">sínum</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="vaxtaákvörðun" type="nven">vaxtaákvörðun</w>
+            <w lemma="banki" type="nkeeg">bankans</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="kynna" type="sþgven">kynnt</w>
+            <w lemma="í" type="aa">í</w>
+            <w lemma="gær" type="aa">gær</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="vera" type="sfg3fn">Eru</w>
+            <w lemma="vöxtur" type="nkfng">vextirnir</w>
+            <w lemma="því" type="aa">því</w>
+            <w lemma="áfram" type="aa">áfram</w>
+            <w lemma="0,75%" type="ta">0,75%</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="stýrivextir" type="nkfn">Stýrivextir</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="6%" type="tp">6%</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="Ísland" type="nheþ-s">Íslandi</w>
+            <c type="punctuation">,</c>
+            <w lemma="1,5%" type="ta">1,5%</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Noregur" type="nkeþ-s">Noregi</w>
+            <c type="punctuation">,</c>
+            <w lemma="0,5%" type="tp">0,5%</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Bretland" type="nheþ-s">Bretlandi</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="0,30%" type="ta">0,30%</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Danmörk" type="nveþ-s">Danmörku</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="Vaxtaákvörðunin" type="nken-s">Vaxtaákvörðunin</w>
+            <w lemma="koma" type="sfg3eþ">kom</w>
+            <w lemma="ekki" type="aa">ekki</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="óvar" type="lheosf">óvart</w>
+            <w lemma="enda" type="c">enda</w>
+            <w lemma="vera" type="sfg3fþ">voru</w>
+            <w lemma="spá" type="nvfn">spár</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="óbreyttur" type="lkfosf">óbreytta</w>
+            <w lemma="vöxtur" type="nkfo">vexti</w>
+            <w lemma="þrátt" type="aa">þrátt</w>
+            <w lemma="fyrir" type="ao">fyrir</w>
+            <w lemma="ótti" type="nkeo">ótta</w>
+            <w lemma="Frakki" type="nkfe-s">Frakka</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="áhrif" type="nhfo">áhrif</w>
+            <w lemma="það" type="fphee">þess</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="evrusvæði" type="nheog">evrusvæðið</w>
+            <w lemma="hver" type="fshen">hvað</w>
+            <w lemma="gengi" type="nhen">gengi</w>
+            <w lemma="evra" type="nveeg">evrunnar</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hár" type="lhensf">hátt</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

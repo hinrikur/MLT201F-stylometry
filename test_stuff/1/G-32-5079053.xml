@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Staðan</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5079053</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Staðan</title>
+            </title>
+            <date>2009-1-15</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="16"/>
+          <tagUsage gi="c" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="haukur" type="nkfn">Haukar</w>
+            <w lemma="13121967:77624" type="ta">13121967:77624</w>
+            <w lemma="Keflavík" type="nveþ-s">Keflavík</w>
+            <w lemma="131031088:85420" type="ta">131031088:85420</w>
+            <w lemma="hamar" type="nken">Hamar</w>
+            <w lemma="13941007:85218" type="ta">13941007:85218</w>
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="1376858:84914" type="ta">1376858:84914</w>
+            <w lemma="Valur" type="nken-s">Valur</w>
+            <w lemma="1376790:79314" type="ta">1376790:79314</w>
+            <w lemma="Grindavík" type="nveþ-s">Grindavík</w>
+            <w lemma="1349883:9368" type="ta">1349883:9368</w>
+            <w lemma="Snæfell" type="nhen-s">Snæfell</w>
+            <w lemma="13211778:9574" type="ta">13211778:9574</w>
+            <w lemma="Fjölnir" type="nken-s">Fjölnir</w>
+            <w lemma="13112681:10352" type="ta">13112681:10352</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

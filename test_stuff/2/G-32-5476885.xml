@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Guðmundur Pétur Pálsson</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5476885</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Guðmundur Pétur Pálsson</title>
+            </title>
+            <date>2013-2-13</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="45"/>
+          <tagUsage gi="c" occurs="17"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="40" type="ta">40</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <w lemma="Guðmundur" type="nken-s">Guðmundur</w>
+            <w lemma="ala" type="sfm3eþ">ólst</w>
+            <w lemma="upp" type="aa">upp</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Reykjavík" type="nveþ-s">Reykjavík</w>
+            <c type="punctuation">,</c>
+            <w lemma="ljúka" type="sfg3eþ">lauk</w>
+            <w lemma="Microsoft" type="e">Microsoft</w>
+            <w lemma="MCM-próf" type="nheþ-s">MCM-prófi</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="kerfissérfræðingur" type="nken">kerfissérfræðingur</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="opinn" type="lhfþsf">Opnum</w>
+            <w lemma="kerfi" type="nhfþ">kerfum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="maki" type="nken">Maki</w>
+            <c type="punctuation">:</c>
+            <w lemma="Ingibjörg" type="nven-s">Ingibjörg</w>
+            <w lemma="Bernhöft" type="nveþ-s">Bernhöft</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1974" type="ta">1974</w>
+            <c type="punctuation">,</c>
+            <w lemma="dáleiðslutækn" type="nvfn">dáleiðslutæknir</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="dóttir" type="nven">Dóttir</w>
+            <c type="punctuation">:</c>
+            <w lemma="Sunna" type="nven-s">Sunna</w>
+            <w lemma="Mjöll" type="nven-s">Mjöll</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1994" type="ta">1994</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="foreldrar" type="nkfn">Foreldrar</w>
+            <c type="punctuation">:</c>
+            <w lemma="Páll" type="nken-s">Páll</w>
+            <w lemma="Guðmundsson" type="nken-s">Guðmundsson</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1927" type="ta">1927</w>
+            <c type="punctuation">,</c>
+            <w lemma="skipstjóri" type="nken">skipstjóri</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Kópavogur" type="nkeþ-s">Kópavogi</w>
+            <c type="punctuation">,</c>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Helga" type="nven-s">Helga</w>
+            <w lemma="Guðrún" type="nven-s">Guðrún</w>
+            <w lemma="Bergmanía" type="nven-s">Bergmanía</w>
+            <w lemma="Pétursdóttir" type="nven-s">Pétursdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1930" type="ta">1930</w>
+            <c type="punctuation">,</c>
+            <w lemma="d." type="as">d.</w>
+            <w lemma="1997" type="ta">1997</w>
+            <c type="punctuation">,</c>
+            <w lemma="húsfreyja" type="nven">húsfreyja</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

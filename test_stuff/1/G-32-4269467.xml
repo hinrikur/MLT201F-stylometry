@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Neituðu deCODE um lán</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4269467</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Neituðu deCODE um lán</title>
+            </title>
+            <date>2009-1-28</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="52"/>
+          <tagUsage gi="c" occurs="7"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Landsbanki" type="nkengs">Landsbankinn</w>
+            <w lemma="synja" type="sfg3eþ">synjaði</w>
+            <w lemma="deCODE" type="e">deCODE</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="lán" type="nheo">lán</w>
+            <w lemma="áður" type="aa">áður</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="taka" type="sþgven">tekin</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="ákvörðun" type="nven">ákvörðun</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="kaupa" type="sng">kaupa</w>
+            <w lemma="safn" type="nheo">safn</w>
+            <w lemma="skuldabréf" type="nhfe">skuldabréfa</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="fyrirtæki" type="nheþg">fyrirtækinu</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="undirverð" type="nheþ">undirverði</w>
+            <c type="punctuation">,</c>
+            <w lemma="samkvæmt" type="aþ">samkvæmt</w>
+            <w lemma="heimild" type="nvfþ">heimildum</w>
+            <w lemma="Morgunblað" type="nheegs">Morgunblaðsins</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="það" type="fphen">Það</w>
+            <w lemma="vilja" type="sfg3en">vill</w>
+            <w lemma="formaður" type="nken">formaður</w>
+            <w lemma="bankaráð" type="nhee">bankaráðs</w>
+            <c type="punctuation">,</c>
+            <w lemma="Ásmundur" type="nken-s">Ásmundur</w>
+            <w lemma="Stefánsson" type="nken-s">Stefánsson</w>
+            <c type="punctuation">,</c>
+            <w lemma="ekki" type="aa">ekki</w>
+            <w lemma="staðfesta" type="nven">staðfesta</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="neita" type="sfg3en">neitar</w>
+            <w lemma="það" type="fpheþ">því</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="banki" type="nkeng">bankinn</w>
+            <w lemma="hafa" type="svg3en">hafi</w>
+            <w lemma="vera" type="ssg">verið</w>
+            <w lemma="undir" type="aþ">undir</w>
+            <w lemma="pólitískur" type="lkeþsf">pólitískum</w>
+            <w lemma="þrýstingur" type="nkeþ">þrýstingi</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="kaupa" type="sng">kaupa</w>
+            <w lemma="bréf" type="nhfog">bréfin</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="hvorki" type="c">Hvorki</w>
+            <w lemma="Kaupþing" type="nhen-s">Kaupþing</w>
+            <w lemma="né" type="c">né</w>
+            <w lemma="Glitnir" type="nken-s">Glitnir</w>
+            <w lemma="vilja" type="sfg3eþ">vildi</w>
+            <w lemma="lána" type="sng">lána</w>
+            <w lemma="deCODE" type="e">deCODE</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <c type="punctuation">|</c>
+            <w lemma="16" type="ta">16</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

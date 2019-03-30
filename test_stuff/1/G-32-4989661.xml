@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Reykjavík Úlfdís Vala fæddist 21. ágúst kl. 14.11. Hún vó 3.240 g og var...</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4989661</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Reykjavík Úlfdís Vala fæddist 21. ágúst kl. 14.11. Hún vó 3.240 g og var...</title>
+            </title>
+            <date>2009-1-10</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="25"/>
+          <tagUsage gi="c" occurs="3"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Reykjavík" type="nven-s">Reykjavík</w>
+            <w lemma="Úlfdís" type="nven-s">Úlfdís</w>
+            <w lemma="Vala" type="nven-s">Vala</w>
+            <w lemma="fæða" type="sfm3eþ">fæddist</w>
+            <w lemma="21." type="ta">21.</w>
+            <w lemma="ágúst" type="nkeo">ágúst</w>
+            <w lemma="kl." type="as">kl.</w>
+            <w lemma="14.11" type="ta">14.11</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="hún" type="fpven">Hún</w>
+            <w lemma="vega" type="sfg3eþ">vó</w>
+            <w lemma="3.240" type="ta">3.240</w>
+            <w lemma="g" type="as">g</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="50" type="ta">50</w>
+            <w lemma="sm" type="as">sm</w>
+            <w lemma="langur" type="lvensf">löng</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="foreldrar" type="nkfn">Foreldrar</w>
+            <w lemma="hún" type="fpvee">hennar</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="Védís" type="nven-s">Védís</w>
+            <w lemma="Sigurðardóttir" type="nven-s">Sigurðardóttir</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Breki" type="nken-s">Breki</w>
+            <w lemma="Logason" type="nken-s">Logason</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

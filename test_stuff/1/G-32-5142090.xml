@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Björgvin 46. í Schladming</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5142090</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Björgvin 46. í Schladming</title>
+            </title>
+            <date>2009-1-28</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="61"/>
+          <tagUsage gi="c" occurs="7"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="BJÖRGVIN" type="nken-s">BJÖRGVIN</w>
+            <w lemma="Björgvinsson" type="nken-s">Björgvinsson</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="Dalvík" type="nveþ-s">Dalvík</w>
+            <w lemma="enda" type="sfg3eþ">endaði</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="46." type="ta">46.</w>
+            <w lemma="sæti" type="nheþ">sæti</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="heimsbikarmót" type="nheþ">heimsbikarmóti</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="svig" type="nheþ">svigi</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="fram" type="aa">fram</w>
+            <w lemma="fara" type="sfg3eþ">fór</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="Schladmingur" type="nkeo-s">Schladming</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Austurríki" type="nheþ-s">Austurríki</w>
+            <w lemma="í" type="aa">í</w>
+            <w lemma="gær" type="aa">gær</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="Björgvin" type="nken-s">Björgvin</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="68." type="ta">68.</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="rásröð" type="nveþg">rásröðinni</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="75" type="ta">75</w>
+            <w lemma="keppandi" type="nkfþ">keppendum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="48" type="ta">48</w>
+            <w lemma="keppandi" type="nkfn">keppendur</w>
+            <w lemma="ná" type="sfg3fþ">náðu</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="ljúka" type="sng">ljúka</w>
+            <w lemma="fyrri" type="lveþvm">fyrri</w>
+            <w lemma="ferð" type="nveþg">ferðinni</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="aðeins" type="aa">aðeins</w>
+            <w lemma="30" type="ta">30</w>
+            <w lemma="efri" type="lkfnve">efstu</w>
+            <w lemma="fara" type="sfg3fþ">fóru</w>
+            <w lemma="síðari" type="lhfevm">síðari</w>
+            <w lemma="ferð" type="nveog">ferðina</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="Reinfried" type="nven-s">Reinfried</w>
+            <w lemma="Herbst" type="nven-s">Herbst</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="Austurríki" type="nheþ-s">Austurríki</w>
+            <w lemma="hrósa" type="sfg3eþ">hrósaði</w>
+            <w lemma="sigur" type="nkeþ">sigri</w>
+            <c type="punctuation">,</c>
+            <w lemma="landi" type="nken">landi</w>
+            <w lemma="hann" type="fpkee">hans</w>
+            <w lemma="Manfred" type="nken-s">Manfred</w>
+            <w lemma="Pranger" type="nken-s">Pranger</w>
+            <w lemma="verða" type="sfg3eþ">varð</w>
+            <w lemma="annar" type="foken">annar</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Ivicia" type="nven-s">Ivicia</w>
+            <w lemma="Kostelic" type="nken-s">Kostelic</w>
+            <c type="punctuation">,</c>
+            <w lemma="Króatía" type="nveþ-s">Króatíu</w>
+            <c type="punctuation">,</c>
+            <w lemma="þriðji" type="lkenvf">þriðji</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="5">
+            <w lemma="gummih@mbl.is" type="v">gummih@mbl.is</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

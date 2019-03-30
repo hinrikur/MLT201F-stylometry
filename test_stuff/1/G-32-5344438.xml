@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Sparisjóðirnir lækka verðtryggða vexti</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5344438</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Sparisjóðirnir lækka verðtryggða vexti</title>
+            </title>
+            <date>2009-1-10</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="33"/>
+          <tagUsage gi="c" occurs="4"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="sparisjóður" type="nkfng">SPARISJÓÐIRNIR</w>
+            <w lemma="lækka" type="sfg3fn">lækka</w>
+            <w lemma="margur" type="lkfnse">flestir</w>
+            <w lemma="verðtryggður" type="lheevf">verðtryggða</w>
+            <w lemma="inn-" type="nvee">inn-</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="útlánsvextir" type="nkfo">útlánsvexti</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="morgundagur" type="nkeþg">morgundeginum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="útlánsvextir" type="nkfn">Útlánsvextir</w>
+            <w lemma="lækka" type="sfg3fn">lækka</w>
+            <w lemma="um" type="aa">um</w>
+            <w lemma="0,05" type="ta">0,05</w>
+            <w lemma="prósentustig" type="nhfo">prósentustig</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="verðtryggður" type="lkfnsf">verðtryggðir</w>
+            <w lemma="innlánsvextir" type="nkfn">innlánsvextir</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="allur" type="foheo">allt</w>
+            <w lemma="að" type="aa">að</w>
+            <w lemma="0,10" type="ta">0,10</w>
+            <w lemma="prósentustig" type="nhfn">prósentustig</w>
+            <c type="punctuation">,</c>
+            <w lemma="samkvæmt" type="aþ">samkvæmt</w>
+            <w lemma="tilkynning" type="nveþ">tilkynningu</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="Einng" type="nhen-s">Einng</w>
+            <w lemma="verða" type="sfg3en">verður</w>
+            <w lemma="breyting" type="nven">breyting</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="innlendur" type="lkfþsf">innlendum</w>
+            <w lemma="gjaldeyrisreikningur" type="nkfþ">gjaldeyrisreikningum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="gretar@mbl.is" type="v">gretar@mbl.is</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

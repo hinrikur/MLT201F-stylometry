@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Nám í japönsku</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5596057</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Nám í japönsku</title>
+            </title>
+            <date>2009-1-12</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="55"/>
+          <tagUsage gi="c" occurs="8"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="japanskur" type="lhfnsf">JAPÖNSK</w>
+            <w lemma="stjórnvald" type="nhfn">stjórnvöld</w>
+            <w lemma="styrkja" type="sfg3fn">styrkja</w>
+            <w lemma="ungur" type="lheosf">ungt</w>
+            <w lemma="fólk" type="nheo">fólk</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="japönskunám" type="nheþ">japönskunámi</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="hyggja" type="sfm3en">hyggst</w>
+            <w lemma="nema" type="c">nema</w>
+            <w lemma="japanska" type="nveo">japönsku</w>
+            <w lemma="eða" type="c">eða</w>
+            <w lemma="japanskur" type="lhfosf">japönsk</w>
+            <w lemma="fræði" type="nhfo">fræði</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="háskóli" type="nkfo">háskóla</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Japan" type="nheþ-s">Japan</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="vera" type="sfg3en">Er</w>
+            <w lemma="styrkur" type="nkeng">styrkurinn</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="allur" type="foheo">allt</w>
+            <w lemma="að" type="aa">að</w>
+            <w lemma="einn" type="tfheo">eitt</w>
+            <w lemma="ár" type="nheo">ár</w>
+            <c type="punctuation">,</c>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="október" type="nkeþ">október</w>
+            <w lemma="2009" type="ta">2009</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="greiða" type="sþghfn">Greidd</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="flugfargjald" type="nhfn">flugfargjöld</w>
+            <c type="punctuation">,</c>
+            <w lemma="skólagjald" type="nhfn">skólagjöld</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="mánaðarlegur" type="lvensf">mánaðarleg</w>
+            <w lemma="upphæð" type="nven">upphæð</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="styrkur" type="nkeng">Styrkurinn</w>
+            <w lemma="standa" type="sfg3en">stendur</w>
+            <w lemma="það" type="fphfþ">þeim</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="boð" type="nhfe">boða</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="fæða" type="sþgkfn">fæddir</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="eftir" type="ao">eftir</w>
+            <w lemma="2." type="ta">2.</w>
+            <w lemma="apríl" type="nkeo">apríl</w>
+            <w lemma="1979" type="ta">1979</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="fyrir" type="ao">fyrir</w>
+            <w lemma="1." type="ta">1.</w>
+            <w lemma="apríl" type="nkeo">apríl</w>
+            <w lemma="1991" type="ta">1991</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="5">
+            <w lemma="sjá" type="sng">Sjá</w>
+            <w lemma="http://www.studyjapan.go.jp" type="e">http://www.studyjapan.go.jp</w>
+            <c type="punctuation">/</c>
+            <w lemma="en" type="e">en</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

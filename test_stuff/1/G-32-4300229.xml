@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Orð dagsins: Því ég segi yður: Héðan í frá m un ég eigi drekka af ávexti...</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4300229</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Orð dagsins: Því ég segi yður: Héðan í frá m un ég eigi drekka af ávexti...</title>
+            </title>
+            <date>2009-1-9</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="25"/>
+          <tagUsage gi="c" occurs="8"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="orð" type="nhen">Orð</w>
+            <w lemma="dagur" type="nkeeg">dagsins</w>
+            <c type="punctuation">:</c>
+            <w lemma="því" type="c">Því</w>
+            <w lemma="ég" type="fp1en">ég</w>
+            <w lemma="segja" type="sfg1en">segi</w>
+            <w lemma="þér" type="fp2fþ">yður</w>
+            <c type="punctuation">:</c>
+            <w lemma="héðan" type="aa">Héðan</w>
+            <w lemma="í" type="aa">í</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="m" type="as">m</w>
+            <w lemma="una" type="sbg2en">un</w>
+            <w lemma="ég" type="fp1en">ég</w>
+            <w lemma="eiga" type="svg1en">eigi</w>
+            <w lemma="drekka" type="sng">drekka</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="ávöxtur" type="nkeþ">ávexti</w>
+            <w lemma="vínviður" type="nkeeg">vínviðarins</w>
+            <c type="punctuation">,</c>
+            <w lemma="snemmt" type="aam">fyrr</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="Guð" type="nkee-s">Guðs</w>
+            <w lemma="ríki" type="nheþ">ríki</w>
+            <w lemma="koma" type="sfg3en">kemur</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <c type="punctuation">(</c>
+            <w lemma="Lk" type="nhen-s">Lk</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="22" type="ta">22</w>
+            <c type="punctuation">,</c>
+            <w lemma="18." type="ta">18.</w>
+            <c type="punctuation">)</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

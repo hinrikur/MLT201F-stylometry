@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Andri Örn Arnarson</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5256492</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Andri Örn Arnarson</title>
+            </title>
+            <date>2013-2-12</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="45"/>
+          <tagUsage gi="c" occurs="15"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="30" type="ta">30</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <w lemma="Andri" type="nken-s">Andri</w>
+            <w lemma="ljúka" type="sfg3eþ">lauk</w>
+            <w lemma="próf" type="nhfþ">prófum</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="atvinnuflugmaður" type="nken">atvinnuflugmaður</w>
+            <w lemma="hér" type="aa">hér</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Bandaríki" type="nhfþgs">Bandaríkjunum</w>
+            <w lemma="ár" type="nheog">árið</w>
+            <w lemma="2006" type="ta">2006</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="nú" type="aa">nú</w>
+            <w lemma="flugmaður" type="nken">flugmaður</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="Air" type="nkeþ-s">Air</w>
+            <w lemma="Atlanta" type="nven-s">Atlanta</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="2007" type="ta">2007</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="maki" type="nken">Maki</w>
+            <c type="punctuation">:</c>
+            <w lemma="Bylgja" type="nven-s">Bylgja</w>
+            <w lemma="Rún" type="nven-s">Rún</w>
+            <w lemma="Svansdóttir" type="nven-s">Svansdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1984" type="ta">1984</w>
+            <c type="punctuation">,</c>
+            <w lemma="vöruhönnuður" type="nken">vöruhönnuður</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="sonur" type="nken">Sonur</w>
+            <c type="punctuation">:</c>
+            <w lemma="Flóki" type="nken-s">Flóki</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="2012" type="ta">2012</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="foreldrar" type="nkfn">Foreldrar</w>
+            <c type="punctuation">:</c>
+            <w lemma="Örn" type="nken-s">Örn</w>
+            <w lemma="Gíslason" type="nken-s">Gíslason</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1958" type="ta">1958</w>
+            <c type="punctuation">,</c>
+            <w lemma="tannholdssérfræðingur" type="nken">tannholdssérfræðingur</w>
+            <c type="punctuation">,</c>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Lilja" type="nven-s">Lilja</w>
+            <w lemma="Valsdóttir" type="nven-s">Valsdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1961" type="ta">1961</w>
+            <c type="punctuation">,</c>
+            <w lemma="handmenntakennari" type="nken">handmenntakennari</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

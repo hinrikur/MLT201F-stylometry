@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Staðan</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5098689</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Staðan</title>
+            </title>
+            <date>2009-1-8</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="2"/>
+          <tagUsage gi="w" occurs="84"/>
+          <tagUsage gi="c" occurs="16"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Iceland" type="e">Iceland</w>
+            <w lemma="Express-deild" type="nveþ-s">Express-deild</w>
+            <w lemma="kona" type="nvfe">kvenna</w>
+            <w lemma="haukur" type="nkfn">Haukar</w>
+            <w lemma="11101803:67520" type="ta">11101803:67520</w>
+            <w lemma="Keflavík" type="nveþ-s">Keflavík</w>
+            <w lemma="1293993:77518" type="ta">1293993:77518</w>
+            <w lemma="hamar" type="nken">Hamar</w>
+            <w lemma="1293928:75718" type="ta">1293928:75718</w>
+            <w lemma="valur" type="nken">Valur</w>
+            <w lemma="1275737:71614" type="ta">1275737:71614</w>
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="1266781:79612" type="ta">1266781:79612</w>
+            <w lemma="Grindavík" type="nveþ-s">Grindavík</w>
+            <w lemma="1248815:8538" type="ta">1248815:8538</w>
+            <w lemma="Fjölnir" type="nken-s">Fjölnir</w>
+            <w lemma="11110604:8742" type="ta">11110604:8742</w>
+            <w lemma="Snæfell" type="nhen-s">Snæfell</w>
+            <w lemma="12111698:9132" type="ta">12111698:9132</w>
+            <c type="punctuation">*</c>
+            <w lemma="Fjölnir" type="nken-s">Fjölnir</w>
+            <w lemma="taka" type="sfg3en">tekur</w>
+            <w lemma="á" type="aa">á</w>
+            <w lemma="móti" type="aþ">móti</w>
+            <w lemma="Haukur" type="nkfþ-s">Haukum</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="lokaleikur" type="nkeþ">lokaleik</w>
+            <w lemma="12." type="ta">12.</w>
+            <w lemma="umferð" type="nveeg">umferðarinnar</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="kvöld" type="nheo">kvöld</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="stigahár" type="lvfnse">Stigahæstar</w>
+            <c type="punctuation">,</c>
+            <w lemma="meðalskor" type="nhen">meðalskor</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="leikur" type="nkeþ">leik</w>
+            <c type="punctuation">:</c>
+            <w lemma="Ashley" type="nven-s">Ashley</w>
+            <w lemma="Bowman" type="nven-s">Bowman</w>
+            <c type="punctuation">,</c>
+            <w lemma="Fjölnir" type="nkeþ-s">Fjölni</w>
+            <w lemma="24,67" type="ta">24,67</w>
+            <w lemma="La" type="e">La</w>
+            <w lemma="Kiste" type="nven-s">Kiste</w>
+            <w lemma="Barkus" type="nven-s">Barkus</w>
+            <c type="punctuation">,</c>
+            <w lemma="Hamar" type="nkeþ-s">Hamri</w>
+            <w lemma="23,09" type="ta">23,09</w>
+            <w lemma="Birna" type="nven-s">Birna</w>
+            <w lemma="Valgarðsdóttir" type="nven-s">Valgarðsdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="Keflavík" type="nveþ-s">Keflavík</w>
+            <w lemma="22,25" type="ta">22,25</w>
+            <w lemma="Kristrún" type="nven-s">Kristrún</w>
+            <w lemma="Sigurjónsdóttir" type="nven-s">Sigurjónsdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="Haukur" type="nkfþ-s">Haukum</w>
+            <w lemma="21,55" type="ta">21,55</w>
+            <w lemma="Slavica" type="nven-s">Slavica</w>
+            <w lemma="Dimovska" type="nven-s">Dimovska</w>
+            <c type="punctuation">,</c>
+            <w lemma="Haukur" type="nkfþ-s">Haukum</w>
+            <w lemma="18,09" type="ta">18,09</w>
+            <w lemma="Julia" type="e">Julia</w>
+            <w lemma="Demirer" type="nven-s">Demirer</w>
+            <c type="punctuation">,</c>
+            <w lemma="Hamar" type="nkeþ-s">Hamri</w>
+            <w lemma="18,00" type="ta">18,00</w>
+            <w lemma="Detra" type="nven-s">Detra</w>
+            <w lemma="Ashley" type="nven-s">Ashley</w>
+            <c type="punctuation">,</c>
+            <w lemma="Snæfell" type="nheþ-s">Snæfelli</w>
+            <w lemma="17,86" type="ta">17,86</w>
+            <w lemma="Signý" type="nven-s">Signý</w>
+            <w lemma="Hermannsdóttir" type="nven-s">Hermannsdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="val" type="nhen">Val</w>
+            <w lemma="17,45" type="ta">17,45</w>
+            <w lemma="Sigrún" type="nven-s">Sigrún</w>
+            <w lemma="Sjöfn" type="nven-s">Sjöfn</w>
+            <w lemma="Ámundadóttir" type="nven-s">Ámundadóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="16,58" type="ta">16,58</w>
+            <w lemma="Pálína" type="nven-s">Pálína</w>
+            <w lemma="Gunnlaugsdóttir" type="nven-s">Gunnlaugsdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="Keflavík" type="nveþ-s">Keflavík</w>
+            <w lemma="15,75" type="ta">15,75</w>
+            <w lemma="Hildur" type="nven-s">Hildur</w>
+            <w lemma="Sigurðardóttir" type="nven-s">Sigurðardóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="15,58" type="ta">15,58</w>
+            <w lemma="Petrúnella" type="nven-s">Petrúnella</w>
+            <w lemma="Skúladóttir" type="nven-s">Skúladóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="Grindavík" type="nveþ-s">Grindavík</w>
+            <w lemma="13,50" type="ta">13,50</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

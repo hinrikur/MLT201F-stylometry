@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Hörður leikur verk Bach í Hafnarfirði</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4420389</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Hörður leikur verk Bach í Hafnarfirði</title>
+            </title>
+            <date>2013-2-25</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="2"/>
+          <tagUsage gi="w" occurs="44"/>
+          <tagUsage gi="c" occurs="6"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Hörður" type="nken-s">Hörður</w>
+            <w lemma="Áskelsson" type="nken-s">Áskelsson</w>
+            <c type="punctuation">,</c>
+            <w lemma="organisti" type="nken">organisti</w>
+            <w lemma="Hallgrímskirkja" type="nvee-s">Hallgrímskirkju</w>
+            <c type="punctuation">,</c>
+            <w lemma="halda" type="sfg3en">heldur</w>
+            <w lemma="hádegistónleikar" type="nkfo">hádegistónleika</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Hafnarfjarðarkirkja" type="nveþ-s">Hafnarfjarðarkirkju</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="morgunn" type="nkeo">morgun</w>
+            <w lemma="klukka" type="nveng">klukkan</w>
+            <w lemma="12.15" type="ta">12.15</w>
+            <w lemma="til" type="aa">til</w>
+            <w lemma="12.45" type="ta">12.45</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="Hörður" type="nken-s">Hörður</w>
+            <w lemma="leika" type="sfg3en">leikur</w>
+            <w lemma="verk" type="nhfo">verk</w>
+            <w lemma="eftir" type="ao">eftir</w>
+            <w lemma="Johannur" type="nkeo-s">Johann</w>
+            <w lemma="Sebastian" type="e">Sebastian</w>
+            <w lemma="Bach" type="e">Bach</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="báðir" type="fohfo">bæði</w>
+            <w lemma="orgel" type="nhfo">orgel</w>
+            <w lemma="kirkja" type="nveeg">kirkjunnar</w>
+            <c type="punctuation">,</c>
+            <w lemma="verk" type="nhfng">verkin</w>
+            <w lemma="Partite" type="nxen-s">Partite</w>
+            <w lemma="diverse" type="e">diverse</w>
+            <w lemma="sopra" type="e">sopra</w>
+            <w lemma="O" type="x">O</w>
+            <w lemma="góður" type="lhensf">Gott</w>
+            <c type="punctuation">,</c>
+            <w lemma="du" type="e">du</w>
+            <w lemma="frommer" type="e">frommer</w>
+            <w lemma="góður" type="lhensf">Gott</w>
+            <w lemma="BWV" type="nveþ-s">BWV</w>
+            <w lemma="767" type="ta">767</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Prelúdía" type="nveo-s">Prelúdíu</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="fúga" type="nveo">fúgu</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="h-moll" type="nkeþ">h-moll</w>
+            <w lemma="BWV" type="nveþ-s">BWV</w>
+            <w lemma="554" type="ta">554</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

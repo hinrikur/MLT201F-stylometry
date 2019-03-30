@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Jökull til Chicago Fire</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5357078</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Jökull til Chicago Fire</title>
+            </title>
+            <date>2009-1-16</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="58"/>
+          <tagUsage gi="c" occurs="4"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="JÖKULL" type="nken-s">JÖKULL</w>
+            <w lemma="I." type="as">I.</w>
+            <w lemma="Elísabetarson" type="nken-s">Elísabetarson</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="gærkvöld" type="nheo">gærkvöld</w>
+            <w lemma="velja" type="sþgken">valinn</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="4." type="ta">4.</w>
+            <w lemma="umferð" type="nveþ">umferð</w>
+            <w lemma="bandarískur" type="lheevf">bandaríska</w>
+            <w lemma="háskólaval" type="nheeg">háskólavalsins</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="MLS-deildinnur" type="nkeþ-s">MLS-deildinni</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="knattspyrna" type="nveþ">knattspyrnu</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="eigandi" type="nkfn">Eigendur</w>
+            <w lemma="Colorado" type="e">Colorado</w>
+            <w lemma="Rapid" type="nhee-s">Rapids</w>
+            <w lemma="velja" type="sfg3fþ">völdu</w>
+            <w lemma="Jökull" type="nkeo-s">Jökul</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="hann" type="fpkfn">þeir</w>
+            <w lemma="senda" type="sfg3fþ">sendu</w>
+            <w lemma="síðan" type="aa">síðan</w>
+            <w lemma="valréttur" type="nkeog">valréttinn</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="Chicago" type="e">Chicago</w>
+            <w lemma="Fire" type="e">Fire</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="jökull" type="nken">Jökull</w>
+            <c type="punctuation">,</c>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="leika" type="sfg3eþ">lék</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Víkingur" type="nkeþ-s">Víkingi</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="Ísland" type="nheþ-s">Íslandi</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="fyrstur" type="lkenve">fyrsti</w>
+            <w lemma="íslenskur" type="lkenvf">íslenski</w>
+            <w lemma="leikmaður" type="nkeng">leikmaðurinn</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="koma" type="sfm3en">kemst</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="lið" type="nheþ">liði</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="MLS-deildinni" type="nveþ-s">MLS-deildinni</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="hann" type="fpken">hann</w>
+            <w lemma="leika" type="sfg3eþ">lék</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="háskólalið" type="nheþg">háskólaliðinu</w>
+            <w lemma="Greensboro" type="nxeþ-s">Greensboro</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Norður-Karólína" type="nveþ-s">Norður-Karólínu</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="seth@mbl.is" type="v">seth@mbl.is</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Orð dagsins: Þú hefur breytt eftir mér í kenningu, hegðun, ásetningi...</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5312001</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Orð dagsins: Þú hefur breytt eftir mér í kenningu, hegðun, ásetningi...</title>
+            </title>
+            <date>2009-1-6</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="18"/>
+          <tagUsage gi="c" occurs="12"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="orð" type="nhen">Orð</w>
+            <w lemma="dagur" type="nkeeg">dagsins</w>
+            <c type="punctuation">:</c>
+            <w lemma="þú" type="fp2en">Þú</w>
+            <w lemma="hafa" type="sfg2en">hefur</w>
+            <w lemma="breyta" type="ssg">breytt</w>
+            <w lemma="eftir" type="aþ">eftir</w>
+            <w lemma="ég" type="fp1eþ">mér</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="kenning" type="nveþ">kenningu</w>
+            <c type="punctuation">,</c>
+            <w lemma="hegðun" type="nveþ">hegðun</w>
+            <c type="punctuation">,</c>
+            <w lemma="ásetningur" type="nkeþ">ásetningi</w>
+            <c type="punctuation">,</c>
+            <w lemma="trú" type="nveo">trú</w>
+            <c type="punctuation">,</c>
+            <w lemma="langlyndi" type="nheo">langlyndi</w>
+            <c type="punctuation">,</c>
+            <w lemma="kærleiki" type="nkeo">kærleika</w>
+            <c type="punctuation">,</c>
+            <w lemma="þolgæði" type="nheo">þolgæði</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <c type="punctuation">(</c>
+            <w lemma="tíma" type="sbg2en">Tím</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="3" type="ta">3</w>
+            <c type="punctuation">,</c>
+            <w lemma="10." type="ta">10.</w>
+            <c type="punctuation">)</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

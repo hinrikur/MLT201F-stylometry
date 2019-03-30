@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Kristinn</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4425843</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Kristinn</title>
+            </title>
+            <date>2013-2-4</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="29"/>
+          <tagUsage gi="c" occurs="1"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Japanshátíð" type="nven-s">Japanshátíð</w>
+            <w lemma="um" type="ao">Um</w>
+            <w lemma="helgi" type="nveog">helgina</w>
+            <w lemma="bjóða" type="sfg3fþ">buðu</w>
+            <w lemma="nemandi" type="nkfn">nemendur</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="japanskur" type="lheþsf">japönsku</w>
+            <w lemma="mál" type="nheþ">máli</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="menning" type="nveþ">menningu</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="Háskóli" type="nkeo-s">Háskóla</w>
+            <w lemma="Ísland" type="nhee-s">Íslands</w>
+            <w lemma="auk" type="ae">auk</w>
+            <w lemma="annar" type="fokfe">annarra</w>
+            <w lemma="gestur" type="nkfþ">gestum</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="þessi" type="faveþ">þessari</w>
+            <w lemma="árlegur" type="lveþvf">árlegu</w>
+            <w lemma="hátíð" type="nveþ">hátíð</w>
+            <w lemma="síðan" type="aa">síðan</w>
+            <w lemma="2005" type="ta">2005</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="kynna" type="sng">kynna</w>
+            <w lemma="sig" type="fpkeþ">sér</w>
+            <w lemma="japanskur" type="lheosf">japanskt</w>
+            <w lemma="líf" type="nheo">líf</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="menning" type="nveo">menningu</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

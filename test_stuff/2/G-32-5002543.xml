@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">En Drottinn er hinn sanni Guð, hann er lifandi Guð og eilífur konungur...</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5002543</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">En Drottinn er hinn sanni Guð, hann er lifandi Guð og eilífur konungur...</title>
+            </title>
+            <date>2013-2-6</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="26"/>
+          <tagUsage gi="c" occurs="5"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="en" type="c">En</w>
+            <w lemma="Drottinn" type="nken-s">Drottinn</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hinn" type="gken">hinn</w>
+            <w lemma="sannur" type="lkenvf">sanni</w>
+            <w lemma="Guð" type="nken-s">Guð</w>
+            <c type="punctuation">,</c>
+            <w lemma="hann" type="fpken">hann</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="lifandi" type="lkenof">lifandi</w>
+            <w lemma="guð" type="nken">Guð</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="eilífur" type="lkensf">eilífur</w>
+            <w lemma="konungur" type="nken">konungur</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="jörð" type="nveng">Jörðin</w>
+            <w lemma="skjálfa" type="sfg3en">skelfur</w>
+            <w lemma="fyrir" type="aþ">fyrir</w>
+            <w lemma="heift" type="nveþ">heift</w>
+            <w lemma="hann" type="fpkee">hans</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="þjóð" type="nvfng">þjóðirnar</w>
+            <w lemma="standa" type="sfm3fn">standast</w>
+            <w lemma="ekki" type="aa">ekki</w>
+            <w lemma="reiði" type="nveo">reiði</w>
+            <w lemma="hann" type="fpkee">hans</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <c type="punctuation">(</c>
+            <w lemma="Jeremía" type="nxen-s">Jeremía</w>
+            <w lemma="10:10" type="ta">10:10</w>
+            <c type="punctuation">)</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

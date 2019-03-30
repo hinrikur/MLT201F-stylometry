@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Óheppnir geimfarar</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5120343</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Óheppnir geimfarar</title>
+            </title>
+            <date>2009-1-10</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="23"/>
+          <tagUsage gi="c" occurs="3"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="þessi" type="fakfn">Þessir</w>
+            <w lemma="þrír" type="tfkfn">þrír</w>
+            <w lemma="óheppinn" type="lkfnvf">óheppnu</w>
+            <w lemma="geimfari" type="nkfn">geimfarar</w>
+            <w lemma="lenda" type="sfg3fþ">lentu</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="sá" type="faheþ">því</w>
+            <w lemma="leiðinlegur" type="lheþvf">leiðinlega</w>
+            <w lemma="atvik" type="nheþ">atviki</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="týna" type="sng">týna</w>
+            <w lemma="geimflaug" type="nvfþ">geimflaugum</w>
+            <w lemma="sinn" type="fevfþ">sínum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="geta" type="sfg2en">Getur</w>
+            <w lemma="þú" type="fp2en">þú</w>
+            <w lemma="finna" type="ssg">fundið</w>
+            <w lemma="út" type="aa">út</w>
+            <w lemma="hvaða" type="fsvfn">hvaða</w>
+            <w lemma="geimflaug" type="nvfn">geimflaugar</w>
+            <w lemma="geimfari" type="nkfng">geimfararnir</w>
+            <w lemma="eiga" type="sfg3fn">eiga</w>
+            <c type="punctuation">?</c>
+          </s>
+          <s n="3">
+            <w lemma="lausn" type="nven">Lausn</w>
+            <w lemma="aftur" type="aae">aftast</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

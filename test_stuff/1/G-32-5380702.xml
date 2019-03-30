@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Hækkun í Kauphöll</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5380702</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Hækkun í Kauphöll</title>
+            </title>
+            <date>2009-1-13</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="45"/>
+          <tagUsage gi="c" occurs="5"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="úrvalsvísitala" type="nven">ÚRVALSVÍSITALA</w>
+            <w lemma="Kauphöll" type="nveegs">Kauphallarinnar</w>
+            <w lemma="hækka" type="sfg3eþ">hækkaði</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="1,53%" type="ta">1,53%</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="lokagildi" type="nhen">lokagildi</w>
+            <w lemma="hún" type="fpvee">hennar</w>
+            <w lemma="898,24" type="ta">898,24</w>
+            <w lemma="stig" type="nhfn">stig</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="enginn" type="fohen">Ekkert</w>
+            <w lemma="félag" type="nhen">félag</w>
+            <w lemma="lækka" type="sfg3eþ">lækkaði</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="verð" type="nheþ">verði</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="viðskipti" type="nhfþ">viðskiptum</w>
+            <w lemma="gærdagur" type="nkeeg">gærdagsins</w>
+            <c type="punctuation">,</c>
+            <w lemma="en" type="c">en</w>
+            <w lemma="gengi" type="nhen">gengi</w>
+            <w lemma="bréf" type="nhfe">bréfa</w>
+            <w lemma="Straums-Burðaráss" type="nhee-s">Straums-Burðaráss</w>
+            <w lemma="hækka" type="sfg3eþ">hækkaði</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="7,62%" type="ta">7,62%</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Marel" type="nkee-s">Marels</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="1,05%" type="ta">1,05%</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="velta" type="nven">Velta</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="hlutabréfamarkaður" type="nkeþ">hlutabréfamarkaði</w>
+            <w lemma="nema" type="sfg3eþ">nam</w>
+            <w lemma="76" type="ta">76</w>
+            <w lemma="milljón" type="nvfþ">milljónum</w>
+            <w lemma="króna" type="nvfe">króna</w>
+            <c type="punctuation">,</c>
+            <w lemma="en" type="c">en</w>
+            <w lemma="velta" type="nven">velta</w>
+            <w lemma="með" type="ao">með</w>
+            <w lemma="skuldabréf" type="nhfo">skuldabréf</w>
+            <w lemma="nema" type="sfg3eþ">nam</w>
+            <w lemma="12,4" type="ta">12,4</w>
+            <w lemma="milljarður" type="nkfþ">milljörðum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="bjarni@mbl.is" type="v">bjarni@mbl.is</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

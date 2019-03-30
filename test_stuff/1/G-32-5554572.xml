@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Athugið</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5554572</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Athugið</title>
+            </title>
+            <date>2009-1-14</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="45"/>
+          <tagUsage gi="c" occurs="4"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="ég" type="fp1fn">VIÐ</w>
+            <w lemma="vilja" type="sfg1fn">viljum</w>
+            <w lemma="minna" type="sng">minna</w>
+            <w lemma="á" type="ao">á</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="Ísland" type="nhen-s">Ísland</w>
+            <w lemma="hafa" type="sfg3en">hefur</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="örfár" type="lhfosf">örfá</w>
+            <w lemma="skipti" type="nhfo">skipti</w>
+            <w lemma="sýna" type="ssg">sýnt</w>
+            <w lemma="hetjuskapur" type="nkeo">hetjuskap</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="utanríkismál" type="nhfþ">utanríkismálum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="það" type="fphen">Það</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="útfærsla" type="nveo">útfærslu</w>
+            <w lemma="landhelgi" type="nveeg">landhelginnar</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="þegar" type="c">þegar</w>
+            <w lemma="ég" type="fp1fn">við</w>
+            <w lemma="viðkenndur" type="lkfþsf">viðkenndum</w>
+            <w lemma="sjálfstæði" type="nheo">sjálfstæði</w>
+            <w lemma="Eystrasaltsland" type="nhfegs">Eystrasaltslandanna</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Króatía" type="nveþ-s">Króatíu</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="þessi" type="fahfn">Þessi</w>
+            <w lemma="fordæmi" type="nhfn">fordæmi</w>
+            <w lemma="eiga" type="svg3fþ">ættu</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="duga" type="sng">duga</w>
+            <w lemma="ríkisstjórn" type="nveþ">ríkisstjórn</w>
+            <w lemma="Ísland" type="nhee-s">Íslands</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="slíta" type="sng">slíta</w>
+            <w lemma="stjórnmálasamband" type="nheþ">stjórnmálasambandi</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="Ísrael" type="nheo-s">Ísrael</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="höfundur" type="nkfn">Höfundar</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="rithöfundur" type="nken">rithöfundur</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="kvikmyndagerðarmaður" type="nken">kvikmyndagerðarmaður</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

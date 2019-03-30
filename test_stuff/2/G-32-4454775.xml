@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">1. deild karla Fjölnir – Selfoss 18:27 Víkingur – Stjarnan...</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4454775</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">1. deild karla Fjölnir – Selfoss 18:27 Víkingur – Stjarnan...</title>
+            </title>
+            <date>2013-2-2</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="26"/>
+          <tagUsage gi="c" occurs="3"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="1." type="ta">1.</w>
+            <w lemma="deild" type="nven">deild</w>
+            <w lemma="karl" type="nkfe">karla</w>
+            <w lemma="Fjölnir" type="nken-s">Fjölnir</w>
+            <c type="punctuation">–</c>
+            <w lemma="Selfoss" type="nkee-s">Selfoss</w>
+            <w lemma="18:27" type="ta">18:27</w>
+            <w lemma="Víkingur" type="nken-s">Víkingur</w>
+            <c type="punctuation">–</c>
+            <w lemma="stjarna" type="nveng">Stjarnan</w>
+            <w lemma="24:18" type="ta">24:18</w>
+            <w lemma="staða" type="nveng">Staðan</w>
+            <c type="punctuation">:</c>
+            <w lemma="stjarna" type="nveng">Stjarnan</w>
+            <w lemma="12831354:28019" type="ta">12831354:28019</w>
+            <w lemma="ÍBV" type="as">ÍBV</w>
+            <w lemma="11821348:25118" type="ta">11821348:25118</w>
+            <w lemma="Víkingur" type="nken-s">Víkingur</w>
+            <w lemma="12813311:26217" type="ta">12813311:26217</w>
+            <w lemma="Selfoss" type="nken-s">Selfoss</w>
+            <w lemma="12705316:29414" type="ta">12705316:29414</w>
+            <w lemma="Grótta" type="nven-s">Grótta</w>
+            <w lemma="12606328:31612" type="ta">12606328:31612</w>
+            <w lemma="Fjölnir" type="nken-s">Fjölnir</w>
+            <w lemma="12318283:3467" type="ta">12318283:3467</w>
+            <w lemma="þróttur" type="nken">Þróttur</w>
+            <w lemma="122010275:3684" type="ta">122010275:3684</w>
+            <w lemma="fylkir" type="nken">Fylkir</w>
+            <w lemma="11119249:3473" type="ta">11119249:3473</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

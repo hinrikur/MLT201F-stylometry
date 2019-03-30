@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Bardagi Gunnars sýndur í Smárabíói</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4420382</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Bardagi Gunnars sýndur í Smárabíói</title>
+            </title>
+            <date>2013-2-1</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="3"/>
+          <tagUsage gi="w" occurs="50"/>
+          <tagUsage gi="c" occurs="5"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Bardagakappinn" type="nken-s">Bardagakappinn</w>
+            <w lemma="Gunnar" type="nken-s">Gunnar</w>
+            <w lemma="Nelson" type="e">Nelson</w>
+            <w lemma="munu" type="sfg3en">mun</w>
+            <w lemma="keppa" type="sng">keppa</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="brasilíumaður" type="nkeog">Brasilíumanninn</w>
+            <w lemma="Jorge" type="nken-s">Jorge</w>
+            <w lemma="Santiago" type="nken-s">Santiago</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="blandaður" type="lvfþsf">blönduðum</w>
+            <w lemma="bardaglist" type="nvfþ">bardaglistum</w>
+            <c type="punctuation">(</c>
+            <w lemma="MMUR" type="nkfo-s">MMA</w>
+            <c type="punctuation">)</c>
+            <w lemma="laugardagur" type="nkeog">laugardaginn</w>
+            <w lemma="16." type="ta">16.</w>
+            <w lemma="febrúar" type="nkeo">febrúar</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Lundúnir" type="nvfþ-s">Lundúnum</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="verða" type="sfg3en">verður</w>
+            <w lemma="bardagi" type="nkeng">bardaginn</w>
+            <w lemma="m.a." type="as">m.a.</w>
+            <w lemma="sýna" type="sþgken">sýndur</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="beinn" type="lveþsf">beinni</w>
+            <w lemma="útsending" type="nveþ">útsendingu</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Smárabíó" type="nheþ-s">Smárabíói</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="Santiago" type="nken-s">Santiago</w>
+            <w lemma="munu" type="sfg3en">mun</w>
+            <w lemma="vera" type="sng">vera</w>
+            <w lemma="erfiður" type="lkenve">erfiðasti</w>
+            <w lemma="andstæðingur" type="nken">andstæðingur</w>
+            <w lemma="Gunnar" type="nkee-s">Gunnars</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="þessi" type="fahee">þessa</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="mega" type="sfg3en">má</w>
+            <w lemma="því" type="aa">því</w>
+            <w lemma="búa" type="snm">búast</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="æsispennandi" type="lkeoof">æsispennandi</w>
+            <w lemma="bardagi" type="nkeo">bardaga</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="frekur" type="lvfovm">Frekari</w>
+            <w lemma="upplýsing" type="nvfo">upplýsingar</w>
+            <w lemma="mega" type="sfg3en">má</w>
+            <w lemma="finna" type="sng">finna</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="vefur" type="nkeþ">vef</w>
+            <w lemma="Sena" type="nveo-s">Senu</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

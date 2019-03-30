@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Ný bók um Bond</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4467285</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Ný bók um Bond</title>
+            </title>
+            <date>2013-2-22</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="72"/>
+          <tagUsage gi="c" occurs="10"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="von" type="nven">Von</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="nýr" type="lveþsf">nýrri</w>
+            <w lemma="James" type="e">James</w>
+            <w lemma="Bond-skáldsaga" type="nveþ-s">Bond-skáldsögu</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="september" type="nkeþ">september</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <c type="punctuation">"</c>
+            <w lemma="ég" type="fp1fn">Við</w>
+            <w lemma="geta" type="sfg1fn">getum</w>
+            <w lemma="upplýsa" type="ssg">upplýst</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="skáldsaga" type="nveng">skáldsagan</w>
+            <w lemma="munu" type="sfg3en">mun</w>
+            <w lemma="marka" type="sng">marka</w>
+            <w lemma="endurhvarf" type="nheo">endurhvarf</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="hinn" type="ghee">hins</w>
+            <w lemma="klassískur" type="lkeþvf">klassíska</w>
+            <w lemma="Bond-tími" type="nkeþ-s">Bond-tíma</w>
+            <c type="punctuation">,</c>
+            <w lemma="þar" type="aa">þar</w>
+            <w lemma="sem" type="c">sem</w>
+            <w lemma="söguhetja" type="nveng">söguhetjan</w>
+            <w lemma="007" type="e">007</w>
+            <w lemma="verða" type="sfg3en">verður</w>
+            <w lemma="45" type="ta">45</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <w lemma="ár" type="nheog">árið</w>
+            <w lemma="1969" type="ta">1969</w>
+            <c type="punctuation">,</c>
+            <c type="punctuation">"</c>
+            <w lemma="segja" type="sfg3en">segir</w>
+            <w lemma="m.a." type="as">m.a.</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="tilkynning" type="nveþ">tilkynningu</w>
+            <w lemma="frá" type="aþ">frá</w>
+            <w lemma="dánarbú" type="nheþ">dánarbúi</w>
+            <w lemma="Ian" type="nhee-s">Ians</w>
+            <w lemma="Flemming" type="e">Flemming</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="Flemming" type="e">Flemming</w>
+            <w lemma="skrifa" type="sfg3eþ">skrifaði</w>
+            <w lemma="allur" type="fohee">alls</w>
+            <w lemma="fjórtán" type="tfhfo">fjórtán</w>
+            <w lemma="Bond-bók" type="nvfn-s">Bond-bækur</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="ár" type="nhfþg">árunum</w>
+            <w lemma="1953-1964" type="ta">1953-1964</w>
+            <c type="punctuation">,</c>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hann" type="fpken">hann</w>
+            <w lemma="falla" type="sfg3eþ">féll</w>
+            <w lemma="frá" type="aa">frá</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="meðal" type="ae">Meðal</w>
+            <w lemma="sá" type="fakfe">þeirra</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="skrifa" type="ssg">skrifað</w>
+            <w lemma="hafa" type="sfg3fn">hafa</w>
+            <w lemma="bók" type="nvfo">bækur</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Bond-seríuni" type="nkeþ-s">Bond-seríuna</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="Sebastian" type="e">Sebastian</w>
+            <w lemma="Faulkur" type="nkee-s">Faulks</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Jeffery" type="nven-s">Jeffery</w>
+            <w lemma="Deaver" type="nven-s">Deaver</w>
+            <c type="punctuation">,</c>
+            <w lemma="en" type="c">en</w>
+            <w lemma="nýr" type="lvenvf">nýja</w>
+            <w lemma="bók" type="nveng">bókin</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="eftir" type="aa">eftir</w>
+            <w lemma="breska" type="nven">breska</w>
+            <w lemma="rithöfundur" type="nkeog">rithöfundinn</w>
+            <w lemma="William" type="e">William</w>
+            <w lemma="Boyd" type="nveþ-s">Boyd</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

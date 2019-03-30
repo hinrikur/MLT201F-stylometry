@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Ljóðagerð í símanum</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4431236</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Ljóðagerð í símanum</title>
+            </title>
+            <date>2013-2-24</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="56"/>
+          <tagUsage gi="c" occurs="8"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="Segulljóð" type="nven-s">Segulljóð</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="forrit" type="nhen">forrit</w>
+            <w lemma="ætla" type="sþghen">ætlað</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="ljóðagerð" type="nvee">ljóðagerðar</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="leikur" type="nkee">leiks</w>
+            <w lemma="með" type="ao">með</w>
+            <w lemma="tungumál" type="nheog">tungumálið</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="í" type="aþ">Í</w>
+            <w lemma="það" type="fpheþ">því</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hægur" type="lhensf">hægt</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="semja" type="sng">semja</w>
+            <w lemma="ljóð" type="nhfo">ljóð</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="örsaga" type="nvfo">örsögur</w>
+            <c type="punctuation">,</c>
+            <w lemma="tækifæriskveðja" type="nvfo">tækifæriskveðjur</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="margur" type="lheovm">fleira</w>
+            <w lemma="til" type="aa">til</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="þá" type="aa">Þá</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hægur" type="lhensf">hægt</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="breyta" type="sng">breyta</w>
+            <w lemma="útlit" type="nheþ">útliti</w>
+            <w lemma="ljóð" type="nhfeg">ljóðanna</w>
+            <w lemma="svo" type="aa">svo</w>
+            <w lemma="sem" type="c">sem</w>
+            <w lemma="letur" type="nheþ">letri</w>
+            <c type="punctuation">,</c>
+            <w lemma="litur" type="nkfþ">litum</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="bakgrunnur" type="nkeþ">bakgrunni</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="þá" type="aa">Þá</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="útgáfustarfsemi" type="nven">útgáfustarfsemi</w>
+            <w lemma="mögulegur" type="lvensf">möguleg</w>
+            <w lemma="en" type="c">en</w>
+            <w lemma="hægur" type="lhensf">hægt</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="að" type="cn">að</w>
+            <w lemma="birta" type="sng">birta</w>
+            <w lemma="ljóð" type="nhfog">ljóðin</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="vefsíða" type="nveþg">vefsíðunni</w>
+            <w lemma="segulljod.is" type="v">segulljod.is</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="5">
+            <w lemma="fáanlegur" type="lhensf">Fáanlegt</w>
+            <w lemma="fyrir" type="ao">fyrir</w>
+            <w lemma="iPad" type="x">iPad</w>
+            <c type="punctuation">,</c>
+            <w lemma="iPod" type="nxen">iPod</w>
+            <w lemma="touch" type="e">touch</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="iPhone" type="e">iPhone</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

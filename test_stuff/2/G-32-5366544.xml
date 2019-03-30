@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Sigríður Heiða Guðmundsdóttir</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5366544</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Sigríður Heiða Guðmundsdóttir</title>
+            </title>
+            <date>2013-2-21</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="47"/>
+          <tagUsage gi="c" occurs="19"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="30" type="ta">30</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <w lemma="Sigríður" type="nven-s">Sigríður</w>
+            <w lemma="ala" type="sfm3eþ">ólst</w>
+            <w lemma="upp" type="aa">upp</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="Kópavogur" type="nkeþ-s">Kópavogi</w>
+            <c type="punctuation">,</c>
+            <w lemma="stunda" type="sfg3en">stundar</w>
+            <w lemma="nú" type="aa">nú</w>
+            <w lemma="MA-nám" type="nheo-s">MA-nám</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="kennslufræði" type="nhfþ">kennslufræðum</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="menntavísindasvið" type="nheo">Menntavísindasvið</w>
+            <w lemma="HÍ" type="as">HÍ</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="maki" type="nken">Maki</w>
+            <c type="punctuation">:</c>
+            <w lemma="Kristján" type="nken-s">Kristján</w>
+            <w lemma="Þórir" type="nken-s">Þórir</w>
+            <w lemma="Kristjánsson" type="nken-s">Kristjánsson</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1979" type="ta">1979</w>
+            <c type="punctuation">,</c>
+            <w lemma="pípulagningamaður" type="nken">pípulagningamaður</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="sonur" type="nkfn">Synir</w>
+            <c type="punctuation">:</c>
+            <w lemma="Styrmir" type="nken-s">Styrmir</w>
+            <w lemma="Snær" type="nken-s">Snær</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="2005" type="ta">2005</w>
+            <c type="punctuation">,</c>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Brynjar" type="nken-s">Brynjar</w>
+            <w lemma="Emil" type="nken-s">Emil</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="2007" type="ta">2007</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="foreldrar" type="nkfn">Foreldrar</w>
+            <c type="punctuation">:</c>
+            <w lemma="Guðmundur" type="nken-s">Guðmundur</w>
+            <w lemma="Jón" type="nken-s">Jón</w>
+            <w lemma="Halldórsson" type="nken-s">Halldórsson</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1954" type="ta">1954</w>
+            <c type="punctuation">,</c>
+            <w lemma="húsasmiður" type="nken">húsasmiður</w>
+            <c type="punctuation">,</c>
+            <w lemma="og" type="c">og</w>
+            <w lemma="Kolfinna" type="nven-s">Kolfinna</w>
+            <w lemma="Ottósdóttir" type="nven-s">Ottósdóttir</w>
+            <c type="punctuation">,</c>
+            <w lemma="f." type="as">f.</w>
+            <w lemma="1956" type="ta">1956</w>
+            <c type="punctuation">,</c>
+            <w lemma="starfsmur" type="nkeo">starfsm</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="5">
+            <w lemma="við" type="aþ">við</w>
+            <w lemma="Skógarbær" type="nkeþ-s">Skógarbæ</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

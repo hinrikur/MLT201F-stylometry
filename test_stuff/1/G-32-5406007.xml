@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Litlu andarungarnir</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-5406007</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Litlu andarungarnir</title>
+            </title>
+            <date>2009-1-31</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="49"/>
+          <tagUsage gi="c" occurs="12"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="þessi" type="faveo">Þessa</w>
+            <w lemma="sætur" type="lveovf">sætu</w>
+            <w lemma="mynd" type="nveo">mynd</w>
+            <w lemma="teikna" type="sfg3eþ">teiknaði</w>
+            <w lemma="Nanna" type="nven-s">Nanna</w>
+            <c type="punctuation">,</c>
+            <w lemma="7" type="ta">7</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <c type="punctuation">,</c>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="þrír" type="tfkfþ">þremur</w>
+            <w lemma="lítill" type="lkfþsf">litlum</w>
+            <w lemma="andarungi" type="nkfþ">andarungum</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="önd" type="nvfn">Endur</w>
+            <w lemma="skipta" type="sfm3fn">skiptast</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="tveir" type="tfkfo">tvo</w>
+            <w lemma="meginhópur" type="nkfo">meginhópa</w>
+            <c type="punctuation">,</c>
+            <w lemma="buslönd" type="nvfn">buslendur</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="kafandi" type="nkfn">kafendur</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="buslönd" type="nvfn">Buslendur</w>
+            <w lemma="eins" type="aa">eins</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="t.d." type="as">t.d.</w>
+            <w lemma="stokkönd" type="nven">stokkönd</w>
+            <c type="punctuation">,</c>
+            <w lemma="afla" type="sfg3fn">afla</w>
+            <w lemma="sig" type="fpkfþ">sér</w>
+            <w lemma="æti" type="nhee">ætis</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="land" type="nheþ">landi</w>
+            <c type="punctuation">,</c>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="yfirborð" type="nheþ">yfirborði</w>
+            <w lemma="vatn" type="nhee">vatns</w>
+            <w lemma="eða" type="c">eða</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="mjög" type="aa">mjög</w>
+            <w lemma="grunnur" type="lheþsf">grunnu</w>
+            <w lemma="vatn" type="nheþ">vatni</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="kafandi" type="nkfn">Kafendur</w>
+            <c type="punctuation">,</c>
+            <w lemma="t.d." type="as">t.d.</w>
+            <w lemma="æðarfugl" type="nkeo">æðarfugl</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="straumönd" type="nveo">straumönd</w>
+            <c type="punctuation">,</c>
+            <w lemma="kafa" type="sng">kafa</w>
+            <w lemma="eftir" type="aþ">eftir</w>
+            <w lemma="vatnaplanta" type="nvfþ">vatnaplöntum</w>
+            <c type="punctuation">,</c>
+            <w lemma="ormur" type="nkfþ">ormum</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="annar" type="fohfþ">öðrum</w>
+            <w lemma="smádýr" type="nhfþ">smádýrum</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

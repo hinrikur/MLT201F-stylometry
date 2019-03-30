@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Staðan</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4719639</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Staðan</title>
+            </title>
+            <date>2009-1-16</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="25"/>
+          <tagUsage gi="c" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="KR" type="as">KR</w>
+            <w lemma="121201189:87124" type="ta">121201189:87124</w>
+            <w lemma="Grindavík" type="nveþ-s">Grindavík</w>
+            <w lemma="121021162:99120" type="ta">121021162:99120</w>
+            <w lemma="Keflavík" type="nveþ-s">Keflavík</w>
+            <w lemma="12841041:91016" type="ta">12841041:91016</w>
+            <w lemma="Snæfell" type="nhen-s">Snæfell</w>
+            <w lemma="1275978:89314" type="ta">1275978:89314</w>
+            <w lemma="Tindastóll" type="nken-s">Tindastóll</w>
+            <w lemma="13761040:106314" type="ta">13761040:106314</w>
+            <w lemma="Njarðvík" type="nveþ-s">Njarðvík</w>
+            <w lemma="1266947:102212" type="ta">1266947:102212</w>
+            <w lemma="ÍR" type="nven-s">ÍR</w>
+            <w lemma="13571039:104111" type="ta">13571039:104111</w>
+            <w lemma="Breiðablik" type="nhen-s">Breiðablik</w>
+            <w lemma="1257943:102310" type="ta">1257943:102310</w>
+            <w lemma="stjarna" type="nveng">Stjarnan</w>
+            <w lemma="13481077:11059" type="ta">13481077:11059</w>
+            <w lemma="Þór" type="nken-s">Þór</w>
+            <w lemma="A." type="as">A.</w>
+            <w lemma="1248973:10638" type="ta">1248973:10638</w>
+            <w lemma="Fsa" type="nveþ-s">FSu</w>
+            <w lemma="13491088:11168" type="ta">13491088:11168</w>
+            <w lemma="Skallagrímur" type="nken-s">Skallagrímur</w>
+            <w lemma="12111722:11012" type="ta">12111722:11012</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

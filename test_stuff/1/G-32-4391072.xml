@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">John Updike er látinn</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4391072</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">John Updike er látinn</title>
+            </title>
+            <date>2009-1-28</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="48"/>
+          <tagUsage gi="c" occurs="8"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="bandarískur" type="lkenvf">BANDARÍSKI</w>
+            <w lemma="rithöfundur" type="nkeng">rithöfundurinn</w>
+            <w lemma="John" type="e">John</w>
+            <w lemma="Updike" type="nken-s">Updike</w>
+            <w lemma="láta" type="sfm3eþ">lést</w>
+            <w lemma="í" type="aa">í</w>
+            <w lemma="gær" type="aa">gær</w>
+            <c type="punctuation">,</c>
+            <w lemma="76" type="ta">76</w>
+            <w lemma="ár" type="nhfe">ára</w>
+            <w lemma="að" type="aþ">að</w>
+            <w lemma="aldur" type="nkeþ">aldri</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="dánarorsök" type="nveng">Dánarorsökin</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="krabbamein" type="nhen">krabbamein</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="Updike" type="nken-s">Updike</w>
+            <w lemma="skrifa" type="sfg3eþ">skrifaði</w>
+            <w lemma="yfir" type="ao">yfir</w>
+            <w lemma="50" type="ta">50</w>
+            <w lemma="bók" type="nvfo">bækur</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="lýsa" type="sfg3eþ">lýsti</w>
+            <w lemma="bandarískur" type="lvfevf">bandarísku</w>
+            <w lemma="þjóðlíf" type="nheþ">þjóðlífi</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="seinn" type="lkeþvm">seinni</w>
+            <w lemma="hluti" type="nkeþ">hluta</w>
+            <w lemma="tuttugasti" type="lveevf">tuttugustu</w>
+            <w lemma="öld" type="nveeg">aldarinnar</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="hann" type="fpken">Hann</w>
+            <w lemma="hljóta" type="sfg3eþ">hlaut</w>
+            <w lemma="Pulitzer-verðlaunin" type="nveo-s">Pulitzer-verðlaunin</w>
+            <w lemma="tvisvar" type="aa">tvisvar</w>
+            <w lemma="fyrir" type="ao">fyrir</w>
+            <w lemma="tveir" type="tfvfo">tvær</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="bók" type="nvfþ">bókum</w>
+            <w lemma="sinn" type="fevfþ">sínum</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="Harold" type="e">Harold</w>
+            <c type="punctuation">"</c>
+            <w lemma="Rabbit" type="e">Rabbit</w>
+            <c type="punctuation">"</c>
+            <w lemma="Angstrom" type="nheo-s">Angstrom</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="5">
+            <w lemma="Updike" type="nken-s">Updike</w>
+            <w lemma="vera" type="sfg3eþ">var</w>
+            <w lemma="telja" type="sþgken">talinn</w>
+            <w lemma="einn" type="foken">einn</w>
+            <w lemma="fremri" type="lkenve">fremsti</w>
+            <w lemma="rithöfundur" type="nken">rithöfundur</w>
+            <w lemma="Bandaríkjamaður" type="nkfe-s">Bandaríkjamanna</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>

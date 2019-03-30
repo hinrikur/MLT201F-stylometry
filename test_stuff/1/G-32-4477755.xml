@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Gífurlegt tap Seðlabanka</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-32-4477755</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Gífurlegt tap Seðlabanka</title>
+            </title>
+            <date>2009-1-12</date>
+          </analytic>
+          <monogr>
+            <title>Morgunblaðið</title>
+            <imprint>
+              <publisher>Árvakur  ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="4"/>
+          <tagUsage gi="w" occurs="51"/>
+          <tagUsage gi="c" occurs="9"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="tap" type="nhen">TAP</w>
+            <w lemma="ríkissjóður" type="nkee">ríkissjóðs</w>
+            <w lemma="af" type="aþ">af</w>
+            <w lemma="veðlán" type="nhfþ">veðlánum</w>
+            <w lemma="Seðlabanki" type="nkeegs">Seðlabankans</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="gamla" type="nvee">gömlu</w>
+            <w lemma="viðskiptabanki" type="nkfeg">viðskiptabankanna</w>
+            <c type="punctuation">,</c>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="smár" type="lkeþvm">smærri</w>
+            <w lemma="banki" type="nkeþ">banka</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="fjármálafyrirtæki" type="nhen">fjármálafyrirtæki</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="milliliður" type="nkfo">milliliði</w>
+            <c type="punctuation">,</c>
+            <w lemma="verða" type="sfg3en">verður</w>
+            <w lemma="tugur" type="nkfn">tugir</w>
+            <w lemma="eða" type="c">eða</w>
+            <w lemma="hundrað" type="nhfn">hundruð</w>
+            <w lemma="milljarður" type="nkfe">milljarða</w>
+            <w lemma="króna" type="nvfe">króna</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="Sparisjóðabankinn" type="nven-s">Sparisjóðabankinn</w>
+            <w lemma="skulda" type="sfg3en">skuldar</w>
+            <w lemma="um" type="aa">um</w>
+            <w lemma="150" type="ta">150</w>
+            <w lemma="milljarður" type="nkfo">milljarða</w>
+            <w lemma="króna" type="nvfe">króna</w>
+            <c type="punctuation">,</c>
+            <w lemma="Straumur" type="nken-s">Straumur</w>
+            <w lemma="fjárfestingarbanki" type="nken">fjárfestingarbanki</w>
+            <w lemma="40" type="ta">40</w>
+            <c type="punctuation">,</c>
+            <w lemma="en" type="c">en</w>
+            <w lemma="Saga" type="e">Saga</w>
+            <w lemma="Capital" type="e">Capital</w>
+            <c type="punctuation">,</c>
+            <w lemma="askur" type="nkfn">Askar</w>
+            <w lemma="Capital" type="e">Capital</w>
+            <c type="punctuation">,</c>
+            <w lemma="Spron" type="nxen-s">Spron</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="VBUR" type="nkee-s">VBS</w>
+            <w lemma="fjárfestingarbanki" type="nken">fjárfestingarbanki</w>
+            <w lemma="samtals" type="aa">samtals</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="45" type="ta">45</w>
+            <w lemma="milljarður" type="nkfo">milljarða</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <w lemma="óvís" type="lhensf">Óvíst</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="hvernig" type="aa">hvernig</w>
+            <w lemma="þessi" type="fahen">þetta</w>
+            <w lemma="verða" type="sfg3en">verður</w>
+            <w lemma="gera" type="sþghen">gert</w>
+            <w lemma="upp" type="aa">upp</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="4">
+            <w lemma="16" type="ta">16</w>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>
