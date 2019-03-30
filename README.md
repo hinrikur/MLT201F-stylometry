@@ -6,7 +6,7 @@ Fyrra lokaverkefni í námskeiðinu **MLT201F Málleg gagnasöfn: Í hugbúnaða
 
 Athugunin byggðist á samanburði Reykjavíkurbréfanna á árunum 2012 til 2014 við texta þekktra höfunda frá svipuðum tíma og var  athugað hvort kerfisbundin líkindi fundust milli textanna með kósínuslíkindum. Niðurstöðurnar voru ekki afgerandi en þær benda til þess að hægt sé að vinna með viðfangsefnið lengra. 
 
-Gögn Morgunblaðsins voru sótt úr [Risamálheildinni](malheildir.arnastofnun.is) sem er haldið úti af Stofnun Árna Magnússonar í íslenskum fræðum og má sækja af vefnum [Málföng.is](www.malfong.is).
+Gögn Morgunblaðsins voru sótt úr [Risamálheildinni](https://malheildir.arnastofnun.is) sem er haldið úti af Stofnun Árna Magnússonar í íslenskum fræðum og má sækja af vefnum [Málföng.is](https://www.malfong.is).
 
 ## Uppbygging svæðis
 
@@ -24,6 +24,8 @@ Mappan __`test_stuff`__ inniheldur ýmiskonar debug upplýsingar og gögn á ým
 
 Term project #1 in the course __MLT201F Language resources for software development and research__, spring semester 2019 at the University of Iceland. Stylometric analysis of short anonymous texts in Icelandic.
 
-_Reykjavíkurbréf_ is an anonymous, weekly column in the newspaper _Morgunblaðið_. In this project, the Reykjavíkurbréf in the period 2012-2014 were compared to texts with known authors using Cosine similarity, in an effort to shed light on their authorship. The texts in Morgunblaðið were parsed from the raw data in [the Icelandic Gigaword Corpus](malheildir.arnastofnun.is) which is run by the Árni Magnússon Institute for Icelandic Studies and can be downloaded from [Málföng.is](www.malfong.is).
+_Reykjavíkurbréf_ is an anonymous, weekly column in the newspaper _Morgunblaðið_. In this project, the Reykjavíkurbréf in the period 2012-2014 were compared to texts with known authors using Cosine similarity, in an effort to shed light on their authorship. 
+
+The texts in Morgunblaðið were parsed from the raw data in [the Icelandic Gigaword Corpus](https://malheildir.arnastofnun.is) which is run by the Árni Magnússon Institute for Icelandic Studies and can be downloaded from [Málföng.is](https://www.malfong.is).
 
 Although results were inconclusive they imply that more work can be done on the subject.
