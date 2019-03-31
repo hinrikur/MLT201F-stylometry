@@ -26,6 +26,6 @@ Term project #1 in the course __MLT201F Language resources for software developm
 
 _Reykjavíkurbréf_ is an anonymous, weekly column in the newspaper _Morgunblaðið_. In this project, the Reykjavíkurbréf in the period 2012-2014 were compared to texts with known authors using Cosine similarity, in an effort to shed light on their authorship. 
 
-The texts in Morgunblaðið were parsed from the raw data in [the Icelandic Gigaword Corpus](https://malheildir.arnastofnun.is) which is run by the Árni Magnússon Institute for Icelandic Studies and can be downloaded from [Málföng.is](https://www.malfong.is).
+The texts in Morgunblaðið were parsed from the raw data in [the Icelandic Gigaword Corpus](https://malheildir.arnastofnun.is) which is run by the Árni Magnússon Institute for Icelandic Studies and can be downloaded from [Málföng.is](http://www.malfong.is).
 
 Although results were inconclusive they imply that more work can be done on the subject.
